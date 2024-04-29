@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\theCodeSmith\Documents\Workspace\HotelBooking</_PublishTargetUrl>
+    <History>True|2024-04-27T11:42:39.8952953Z;True|2024-04-27T12:38:28.5576090+01:00;True|2024-04-25T23:43:01.7819521+01:00;True|2024-04-25T23:38:22.5436916+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="sqlConnection">
+      <Value>Server=192.168.129.199,1433%3b database=HotelReservation%3b User Id=sa%3b Password=January2024%24%3b TrustServerCertificate=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="HotelBooking.Data.DatabaseContext">
+      <Value>Server=192.168.129.199,1433%3b database=HotelReservation%3b User Id=sa%3b Password=January2024%24%3b TrustServerCertificate=True%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

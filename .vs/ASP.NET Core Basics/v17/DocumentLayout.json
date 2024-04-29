@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D815-6A65-4B22-9800-3D7FE3FAB1BE}|Domain\\HotelBooking.csproj|c:\\users\\thecodesmith\\documents\\workspace\\asp.net core basics\\domain\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775D815-6A65-4B22-9800-3D7FE3FAB1BE}|Domain\\HotelBooking.csproj|solutionrelative:domain\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D11438-676E-4D49-99FE-6F0A26515902}|HotelBooking.Data\\HotelBooking.Data.csproj|c:\\users\\thecodesmith\\documents\\workspace\\asp.net core basics\\hotelbooking.data\\configurations\\entity\\countryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D11438-676E-4D49-99FE-6F0A26515902}|HotelBooking.Data\\HotelBooking.Data.csproj|solutionrelative:hotelbooking.data\\configurations\\entity\\countryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D11438-676E-4D49-99FE-6F0A26515902}|HotelBooking.Data\\HotelBooking.Data.csproj|c:\\users\\thecodesmith\\documents\\workspace\\asp.net core basics\\hotelbooking.data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D11438-676E-4D49-99FE-6F0A26515902}|HotelBooking.Data\\HotelBooking.Data.csproj|solutionrelative:hotelbooking.data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D815-6A65-4B22-9800-3D7FE3FAB1BE}|Domain\\HotelBooking.csproj|c:\\users\\thecodesmith\\documents\\workspace\\asp.net core basics\\domain\\logs\\log-20240427.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7775D815-6A65-4B22-9800-3D7FE3FAB1BE}|Domain\\HotelBooking.csproj|solutionrelative:domain\\logs\\log-20240427.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D815-6A65-4B22-9800-3D7FE3FAB1BE}|Domain\\HotelBooking.csproj|c:\\users\\thecodesmith\\documents\\workspace\\asp.net core basics\\domain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7775D815-6A65-4B22-9800-3D7FE3FAB1BE}|Domain\\HotelBooking.csproj|solutionrelative:domain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D815-6A65-4B22-9800-3D7FE3FAB1BE}|Domain\\HotelBooking.csproj|c:\\users\\thecodesmith\\documents\\workspace\\asp.net core basics\\domain\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775D815-6A65-4B22-9800-3D7FE3FAB1BE}|Domain\\HotelBooking.csproj|solutionrelative:domain\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D11438-676E-4D49-99FE-6F0A26515902}|HotelBooking.Data\\HotelBooking.Data.csproj|c:\\users\\thecodesmith\\documents\\workspace\\asp.net core basics\\hotelbooking.data\\hotelbooking.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05D11438-676E-4D49-99FE-6F0A26515902}|HotelBooking.Data\\HotelBooking.Data.csproj|solutionrelative:hotelbooking.data\\hotelbooking.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D11438-676E-4D49-99FE-6F0A26515902}|HotelBooking.Data\\HotelBooking.Data.csproj|c:\\users\\thecodesmith\\documents\\workspace\\asp.net core basics\\hotelbooking.data\\configurations\\entity\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D11438-676E-4D49-99FE-6F0A26515902}|HotelBooking.Data\\HotelBooking.Data.csproj|solutionrelative:hotelbooking.data\\configurations\\entity\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D11438-676E-4D49-99FE-6F0A26515902}|HotelBooking.Data\\HotelBooking.Data.csproj|c:\\users\\thecodesmith\\documents\\workspace\\asp.net core basics\\hotelbooking.data\\configurations\\entity\\hotelconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D11438-676E-4D49-99FE-6F0A26515902}|HotelBooking.Data\\HotelBooking.Data.csproj|solutionrelative:hotelbooking.data\\configurations\\entity\\hotelconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\Domain\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Domain\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\Domain\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Domain\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAACUAAAAAZmZmZiYswC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:17:39.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\Domain\\Startup.cs",
+              "RelativeDocumentMoniker": "Domain\\Startup.cs",
+              "ToolTip": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\Domain\\Startup.cs",
+              "RelativeToolTip": "Domain\\Startup.cs",
+              "ViewState": "AQIAAHIAAACAAAAAAAAgwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:46:50.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\HotelBooking.Data\\Configurations\\Entity\\CountryConfiguration.cs",
+              "RelativeDocumentMoniker": "HotelBooking.Data\\Configurations\\Entity\\CountryConfiguration.cs",
+              "ToolTip": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\HotelBooking.Data\\Configurations\\Entity\\CountryConfiguration.cs",
+              "RelativeToolTip": "HotelBooking.Data\\Configurations\\Entity\\CountryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:47:13.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HotelConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\HotelBooking.Data\\Configurations\\Entity\\HotelConfiguration.cs",
+              "RelativeDocumentMoniker": "HotelBooking.Data\\Configurations\\Entity\\HotelConfiguration.cs",
+              "ToolTip": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\HotelBooking.Data\\Configurations\\Entity\\HotelConfiguration.cs",
+              "RelativeToolTip": "HotelBooking.Data\\Configurations\\Entity\\HotelConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:47:43.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\HotelBooking.Data\\Configurations\\Entity\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "HotelBooking.Data\\Configurations\\Entity\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\HotelBooking.Data\\Configurations\\Entity\\RoleConfiguration.cs",
+              "RelativeToolTip": "HotelBooking.Data\\Configurations\\Entity\\RoleConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:47:48.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\HotelBooking.Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "HotelBooking.Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\HotelBooking.Data\\DatabaseContext.cs",
+              "RelativeToolTip": "HotelBooking.Data\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:49:21.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotelBooking.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\HotelBooking.Data\\HotelBooking.Data.csproj",
+              "RelativeDocumentMoniker": "HotelBooking.Data\\HotelBooking.Data.csproj",
+              "ToolTip": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\HotelBooking.Data\\HotelBooking.Data.csproj",
+              "RelativeToolTip": "HotelBooking.Data\\HotelBooking.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T17:57:43.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\Domain\\appsettings.json",
+              "RelativeDocumentMoniker": "Domain\\appsettings.json",
+              "ToolTip": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\Domain\\appsettings.json",
+              "RelativeToolTip": "Domain\\appsettings.json",
+              "ViewState": "AQIAAAIAAAAwMzMzMzMrwBMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-27T11:37:30.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "log-20240427.txt",
+              "DocumentMoniker": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\Domain\\logs\\log-20240427.txt",
+              "RelativeDocumentMoniker": "Domain\\logs\\log-20240427.txt",
+              "ToolTip": "C:\\Users\\theCodeSmith\\Documents\\Workspace\\ASP.NET Core Basics\\Domain\\logs\\log-20240427.txt",
+              "RelativeToolTip": "Domain\\logs\\log-20240427.txt",
+              "ViewState": "AQIAAGkNAAAAIs3MzMwXwJ4MAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-27T22:24:44.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

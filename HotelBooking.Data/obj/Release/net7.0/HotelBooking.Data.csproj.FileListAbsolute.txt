@@ -1,0 +1,14 @@
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Data\bin\Release\net7.0\HotelBooking.Data.deps.json
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Data\bin\Release\net7.0\HotelBooking.Data.runtimeconfig.json
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Data\bin\Release\net7.0\HotelBooking.Data.dll
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Data\bin\Release\net7.0\HotelBooking.Data.pdb
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Data\obj\Release\net7.0\HotelBooking.Data.csproj.AssemblyReference.cache
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Data\obj\Release\net7.0\HotelBooking.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Data\obj\Release\net7.0\HotelBooking.Data.AssemblyInfoInputs.cache
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Data\obj\Release\net7.0\HotelBooking.Data.AssemblyInfo.cs
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Data\obj\Release\net7.0\HotelBooking.Data.csproj.CoreCompileInputs.cache
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Data\obj\Release\net7.0\HotelBooking.Data.dll
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Data\obj\Release\net7.0\refint\HotelBooking.Data.dll
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Data\obj\Release\net7.0\HotelBooking.Data.pdb
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Data\obj\Release\net7.0\HotelBooking.Data.genruntimeconfig.cache
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Data\obj\Release\net7.0\ref\HotelBooking.Data.dll

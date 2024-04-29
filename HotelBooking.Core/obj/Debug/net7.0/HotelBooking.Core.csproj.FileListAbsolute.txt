@@ -1,0 +1,68 @@
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.csproj.AssemblyReference.cache
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.AssemblyInfoInputs.cache
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.AssemblyInfo.cs
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.csproj.CoreCompileInputs.cache
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/bin/Debug/net7.0/HotelBooking.Core.deps.json
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/bin/Debug/net7.0/HotelBooking.Core.runtimeconfig.json
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/bin/Debug/net7.0/HotelBooking.Core.dll
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/bin/Debug/net7.0/HotelBooking.Core.pdb
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/bin/Debug/net7.0/HotelBooking.Data.dll
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/bin/Debug/net7.0/HotelBooking.Data.pdb
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBoo.F9730881.Up2Date
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.dll
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/refint/HotelBooking.Core.dll
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.pdb
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.genruntimeconfig.cache
+C:/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/ref/HotelBooking.Core.dll
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/bin/Debug/net7.0/HotelBooking.Core.deps.json
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/bin/Debug/net7.0/HotelBooking.Core.runtimeconfig.json
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/bin/Debug/net7.0/HotelBooking.Core.dll
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/bin/Debug/net7.0/HotelBooking.Core.pdb
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/bin/Debug/net7.0/HotelBooking.Data.dll
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/bin/Debug/net7.0/HotelBooking.Data.pdb
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.csproj.AssemblyReference.cache
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.AssemblyInfoInputs.cache
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.AssemblyInfo.cs
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.csproj.CoreCompileInputs.cache
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBoo.F9730881.Up2Date
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.dll
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/refint/HotelBooking.Core.dll
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.pdb
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/HotelBooking.Core.genruntimeconfig.cache
+/Volumes/[C] Windows 11/Users/theCodeSmith/Documents/Workspace/ASP.NET Core Basics/HotelBooking.Core/obj/Debug/net7.0/ref/HotelBooking.Core.dll
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\bin\Debug\net7.0\HotelBooking.Core.deps.json
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\bin\Debug\net7.0\HotelBooking.Core.runtimeconfig.json
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\bin\Debug\net7.0\HotelBooking.Core.dll
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\bin\Debug\net7.0\HotelBooking.Core.pdb
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\bin\Debug\net7.0\HotelBooking.Data.dll
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\bin\Debug\net7.0\HotelBooking.Data.pdb
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.csproj.AssemblyReference.cache
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.AssemblyInfoInputs.cache
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.AssemblyInfo.cs
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.csproj.CoreCompileInputs.cache
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\obj\Debug\net7.0\HotelBoo.F9730881.Up2Date
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.dll
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\obj\Debug\net7.0\refint\HotelBooking.Core.dll
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.pdb
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.genruntimeconfig.cache
+C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking.Core\obj\Debug\net7.0\ref\HotelBooking.Core.dll
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\bin\Debug\net7.0\HotelBooking.Core.deps.json
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\bin\Debug\net7.0\HotelBooking.Core.runtimeconfig.json
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\bin\Debug\net7.0\HotelBooking.Core.dll
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\bin\Debug\net7.0\HotelBooking.Core.pdb
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\bin\Debug\net7.0\HotelBooking.Data.dll
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\bin\Debug\net7.0\HotelBooking.Data.pdb
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.csproj.AssemblyReference.cache
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.AssemblyInfoInputs.cache
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.AssemblyInfo.cs
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.csproj.CoreCompileInputs.cache
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\obj\Debug\net7.0\HotelBoo.F9730881.Up2Date
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.dll
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\obj\Debug\net7.0\refint\HotelBooking.Core.dll
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.pdb
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\obj\Debug\net7.0\HotelBooking.Core.genruntimeconfig.cache
+C:\Users\theCodeSmith\Documents\Workspace\HotelBooking\HotelBooking.Core\obj\Debug\net7.0\ref\HotelBooking.Core.dll

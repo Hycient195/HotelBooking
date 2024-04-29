@@ -1,0 +1,126 @@
+2024-04-09 11:07:17.179 [] 2024-04-09 11:07:17.404 [] 2024-04-09 11:07:17.404 [] 2024-04-09 11:07:17.405 [] 2024-04-09 11:07:17.405 [] 2024-04-09 11:07:17.405 [] 2024-04-09 11:07:21.169 [] 2024-04-09 11:07:21.363 [] 2024-04-09 11:07:21.371 [] 2024-04-09 11:07:21.544 [] 2024-04-09 11:07:21.545 [] 2024-04-09 11:07:21.547 [] 2024-04-09 11:07:21.549 [] 2024-04-09 11:07:21.557 [] 2024-04-09 11:07:21.568 [] 2024-04-09 11:07:21.624 [] 2024-04-09 11:07:21.625 [] 2024-04-09 11:07:21.633 [] 2024-04-09 11:07:21.958 [] 2024-04-09 11:07:21.959 [] 2024-04-09 11:07:22.016 [] 2024-04-09 11:07:22.016 [] 2024-04-09 11:07:22.061 [] 2024-04-09 11:07:22.143 [] 2024-04-09 11:07:22.172 [] 2024-04-09 11:07:22.174 [] 2024-04-09 11:07:22.179 [] 2024-04-09 11:07:22.190 [] 2024-04-09 11:08:07.685 [] 2024-04-09 11:08:07.754 [] 2024-04-09 11:08:07.754 [] 2024-04-09 11:08:07.756 [] 2024-04-09 11:08:07.756 [] 2024-04-09 11:08:07.756 [] 2024-04-09 11:08:09.393 [] 2024-04-09 11:08:10.101 [] 2024-04-09 11:08:10.117 [] 2024-04-09 11:08:10.120 [] 2024-04-09 11:08:10.126 [] 2024-04-09 11:08:10.235 [] 2024-04-09 11:08:10.347 [] 2024-04-09 11:08:10.416 [] 2024-04-09 11:08:33.232 [] 2024-04-09 11:08:33.312 [] 2024-04-09 11:08:33.313 [] 2024-04-09 11:08:33.314 [] 2024-04-09 11:08:33.314 [] 2024-04-09 11:08:33.314 [] 2024-04-09 11:08:33.560 [] 2024-04-09 11:08:33.678 [] 2024-04-09 11:08:33.731 [] 2024-04-09 11:08:33.731 [] 2024-04-09 11:08:33.737 [] 2024-04-09 11:08:33.764 [] 2024-04-09 11:08:33.782 [] 2024-04-09 11:08:33.839 [] 2024-04-09 11:11:25.140 [] 2024-04-09 11:11:25.157 [] 2024-04-09 11:11:25.172 [] 2024-04-09 11:11:25.172 [] 2024-04-09 11:11:25.174 [] 2024-04-09 11:11:25.190 [] 2024-04-09 11:11:25.252 [] 2024-04-09 11:11:25.256 [] 2024-04-09 11:11:25.765 [] 2024-04-09 11:11:25.772 [] 2024-04-09 11:11:25.781 [] 2024-04-09 11:11:25.781 [] 2024-04-09 11:11:25.783 [] 2024-04-09 11:11:25.791 [] 2024-04-09 11:11:25.842 [] 2024-04-09 11:11:25.844 [] 2024-04-09 11:11:26.126 [] 2024-04-09 11:11:26.129 [] 2024-04-09 11:11:26.156 [] 2024-04-09 11:11:26.156 [] 2024-04-09 11:11:26.157 [] 2024-04-09 11:11:26.163 [] 2024-04-09 11:11:26.183 [] 2024-04-09 11:11:26.185 [] 2024-04-09 11:11:26.491 [] 2024-04-09 11:11:26.494 [] 2024-04-09 11:11:26.502 [] 2024-04-09 11:11:26.506 [] 2024-04-09 11:11:26.508 [] 2024-04-09 11:11:26.520 [] 2024-04-09 11:11:26.545 [] 2024-04-09 11:11:26.546 [] 2024-04-09 11:11:41.615 [] 2024-04-09 11:11:41.626 [] 2024-04-09 11:11:41.641 [] 2024-04-09 11:11:41.641 [] 2024-04-09 11:11:41.643 [] 2024-04-09 11:11:41.649 [] 2024-04-09 11:11:41.684 [] 2024-04-09 11:11:41.685 [] 2024-04-09 11:11:50.650 [] 2024-04-09 11:11:50.957 [] 2024-04-09 11:11:50.958 [] 2024-04-09 11:11:50.959 [] 2024-04-09 11:11:50.963 [] 2024-04-09 11:11:50.965 [] 2024-04-09 11:11:52.324 [] 2024-04-09 11:11:52.634 [] 2024-04-09 11:11:52.643 [] 2024-04-09 11:11:52.674 [] 2024-04-09 11:11:52.690 [] 2024-04-09 11:11:52.733 [] 2024-04-09 11:11:52.793 [] 2024-04-09 11:11:52.844 [] 2024-04-09 11:33:19.696 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 11:35:58.620 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 11:45:36.596 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 11:47:04.609 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 11:54:31.072 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 12:02:08.057 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 12:06:13.218 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 12:15:52.371 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 12:16:26.405 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 12:17:14.794 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 12:21:56.807 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 12:22:25.375 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 12:25:36.503 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 12:28:32.339 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 20:35:27.966 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 20:49:05.482 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 20:58:43.296 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
+2024-04-09 21:07:07.534 [] Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\theCodeSmith\Documents\Workspace\ASP.NET Core Basics\HotelBooking\Program.cs:line 31
